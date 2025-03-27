@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lfywho&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/lfywho/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfywho&layout=compact&langs_count=8&card_width=220&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfywho&layout=compact&langs_count=8&card_width=150&theme=radical" />
 </a>
 
 <div style="display: inline_block"><br>
